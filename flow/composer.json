@@ -1,0 +1,17 @@
+{
+    "name": "ezadev/flow",
+    "description": "Workflow Engine Using Symfony Workflow Component",
+    "type": "library",
+    "require": {
+        "symfony/workflow": "^3.3 || ^4.0",
+        "symfony/process": "^3.3 || ^4.0",
+        "symfony/event-dispatcher": "^3.3 || ^4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Khairu Aqsara",
+            "email": "khairu.aqsara@hotmail.com"
+        }
+    ]
+}
