@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "symfony/workflow": "^3.3 || ^4.0",
-        "symfony/process": "^3.3 || ^4.0",
+        "symfony/process": "^3.3 || ^4.0 || ^5.0",
         "symfony/event-dispatcher": "^3.3 || ^4.0"
     },
     "license": "MIT",
